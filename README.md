@@ -1,1 +1,1 @@
-# novo
+# bolt-generated-project
